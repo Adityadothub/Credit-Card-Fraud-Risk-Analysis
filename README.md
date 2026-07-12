@@ -6,7 +6,7 @@ An interactive **Power BI dashboard** designed to analyze credit card transactio
 
 # Dashboard Preview
 
-![Dashboard Preview](Images/dashboard.png)
+![Dashboard Preview](Images/Dashboard.png)
 
 ---
 
