@@ -2,13 +2,13 @@
 
 An interactive **Power BI dashboard** designed to analyze credit card transaction data, monitor fraud-related KPIs, and identify high-risk patterns through intuitive visualizations. This project demonstrates the application of business intelligence techniques to support fraud detection and risk monitoring.
 
----
+----
 
 # Dashboard Preview
 
 ![Dashboard Preview](Images/Dashboard.png)
 
----
+----
 
 # Project Overview
 
